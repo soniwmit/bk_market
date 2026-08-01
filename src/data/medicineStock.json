@@ -1,0 +1,167 @@
+[
+  {
+    "id": "med-001",
+    "name": "Paracetamol 650mg (Dolo / Crocin)",
+    "brand": "Micro Labs / GSK",
+    "mrp": 32.50,
+    "availableQuantity": 150,
+    "expiry": "12/2027",
+    "status": "Available",
+    "category": "OTC Medicines",
+    "description": "Effective for fever and mild to moderate pain relief."
+  },
+  {
+    "id": "med-002",
+    "name": "Azithromycin 500mg",
+    "brand": "Cipla / Lupin",
+    "mrp": 118.00,
+    "availableQuantity": 85,
+    "expiry": "09/2026",
+    "status": "Available",
+    "category": "Prescription Medicines",
+    "description": "Broad-spectrum antibiotic prescribed for bacterial infections."
+  },
+  {
+    "id": "med-003",
+    "name": "Pantoprazole 40mg (Pan 40)",
+    "brand": "Alkem",
+    "mrp": 155.00,
+    "availableQuantity": 12,
+    "expiry": "04/2027",
+    "status": "Limited Stock",
+    "category": "Prescription Medicines",
+    "description": "Provides relief from acid reflux, heartburn, and stomach ulcers."
+  },
+  {
+    "id": "med-004",
+    "name": "Omron Digital Blood Pressure Monitor (HEM-7120)",
+    "brand": "Omron Healthcare",
+    "mrp": 2450.00,
+    "availableQuantity": 8,
+    "expiry": "N/A (3 Yrs Warranty)",
+    "status": "Available",
+    "category": "Health Devices",
+    "description": "Fully automatic digital BP monitor with Intellisense technology."
+  },
+  {
+    "id": "med-005",
+    "name": "Accu-Chek Active Blood Glucose Meter & Test Strips",
+    "brand": "Roche Diabetes",
+    "mrp": 1299.00,
+    "availableQuantity": 0,
+    "expiry": "08/2026",
+    "status": "Out of Stock",
+    "category": "Health Devices",
+    "description": "Accurate glucometer for instant diabetes monitoring at home."
+  },
+  {
+    "id": "med-006",
+    "name": "Himalaya Baby Lotion & Powder Kit",
+    "brand": "Himalaya Herbals",
+    "mrp": 340.00,
+    "availableQuantity": 45,
+    "expiry": "03/2028",
+    "status": "Available",
+    "category": "Baby Care",
+    "description": "Gentle, Ayurvedic baby skin care enriched with olive oil and almond."
+  },
+  {
+    "id": "med-007",
+    "name": "Pampers All-in-One Pants (Medium, 42 Counts)",
+    "brand": "P&G",
+    "mrp": 699.00,
+    "availableQuantity": 25,
+    "expiry": "11/2028",
+    "status": "Available",
+    "category": "Baby Care",
+    "description": "Ultra-absorbent soft diapers for long-lasting baby comfort."
+  },
+  {
+    "id": "med-008",
+    "name": "Surgical Face Mask 3-Ply (Pack of 50)",
+    "brand": "BK Medical Supplies",
+    "mrp": 199.00,
+    "availableQuantity": 200,
+    "expiry": "05/2029",
+    "status": "Available",
+    "category": "Medical Equipment",
+    "description": "Certified high-filtration breathable protective face masks."
+  },
+  {
+    "id": "med-009",
+    "name": "Multivitamin & Mineral Capsules (Revital H)",
+    "brand": "Sun Pharma",
+    "mrp": 310.00,
+    "availableQuantity": 60,
+    "expiry": "01/2027",
+    "status": "Available",
+    "category": "Supplements",
+    "description": "Daily energy and immunity booster with Ginseng and essential vitamins."
+  },
+  {
+    "id": "med-010",
+    "name": "Telmisartan 40mg (Telma 40)",
+    "brand": "Glenmark",
+    "mrp": 92.00,
+    "availableQuantity": 5,
+    "expiry": "10/2026",
+    "status": "Limited Stock",
+    "category": "Prescription Medicines",
+    "description": "Cardiovascular medicine for blood pressure management."
+  },
+  {
+    "id": "med-011",
+    "name": "Cetirizine 10mg (Okacet / Cetzine)",
+    "brand": "Cipla",
+    "mrp": 22.00,
+    "availableQuantity": 300,
+    "expiry": "02/2028",
+    "status": "Available",
+    "category": "OTC Medicines",
+    "description": "Fast anti-allergic relief for sneezing, runny nose, and itching."
+  },
+  {
+    "id": "med-012",
+    "name": "Whey Protein Health Supplement 1kg",
+    "brand": "Optimum Nutrition",
+    "mrp": 3200.00,
+    "availableQuantity": 0,
+    "expiry": "06/2027",
+    "status": "Out of Stock",
+    "category": "Supplements",
+    "description": "High quality muscle recovery and nutrition powder."
+  },
+  {
+    "id": "med-013",
+    "name": "Digital Infrared Pulse Oximeter",
+    "brand": "Dr. Trust",
+    "mrp": 899.00,
+    "availableQuantity": 30,
+    "expiry": "N/A",
+    "status": "Available",
+    "category": "Health Devices",
+    "description": "Measures blood oxygen saturation SpO2 and pulse rate."
+  },
+  {
+    "id": "med-014",
+    "name": "Antiseptic Liquid Solution 500ml (Dettol / Savlon)",
+    "brand": "Reckitt Benckiser",
+    "mrp": 185.00,
+    "availableQuantity": 70,
+    "expiry": "01/2029",
+    "status": "Available",
+    "category": "Home Care",
+    "description": "First-aid disinfectant liquid for cuts, bites, and personal hygiene."
+  },
+  {
+    "id": "med-015",
+    "name": "Crepe Bandage 10cm x 4m with Clips",
+    "brand": "Hansaplast",
+    "mrp": 140.00,
+    "availableQuantity": 40,
+    "expiry": "12/2029",
+    "status": "Available",
+    "category": "Medical Equipment",
+    "description": "Elastic crepe bandage for sprains, muscle strains, and joint support."
+  }
+]

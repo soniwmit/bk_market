@@ -1,0 +1,6 @@
+{
+  "name": "BK MARKET - Pharmacy & Healthcare Store in Paliganj",
+  "description": "BK MARKET is your trusted medical store in Paliganj, Bihar providing 100% genuine medicines, OTC drugs, health equipment, baby care, surgical supplies & quick WhatsApp medicine order delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
