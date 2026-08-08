@@ -38,7 +38,7 @@ export const SEO: React.FC<SEOProps> = ({
     if (ogDesc) ogDesc.setAttribute('content', description);
 
     // Dynamic Canonical Link
-    const fullUrl = `https://bkmarketpharmacy.com${canonicalPath}`;
+    const fullUrl = `https://bk-market-ten.vercel.app${canonicalPath}`;
     let canonical = document.querySelector('link[rel="canonical"]');
     if (!canonical) {
       canonical = document.createElement('link');
