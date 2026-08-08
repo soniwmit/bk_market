@@ -221,14 +221,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenOrderModal }) => {
             </div>
             <div className="pt-2 text-slate-400 text-[11px] leading-relaxed">
               Designed & Developed by{' '}
-              <a
-                href="https://main.webmakerit.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="font-bold text-emerald-400 hover:underline"
-              >
-                WMIT
-              </a>
+              <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
             </div>
           </div>
         </div>
