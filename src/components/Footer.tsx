@@ -20,7 +20,7 @@ interface FooterProps {
 
 export const Footer: React.FC<FooterProps> = ({ onOpenOrderModal }) => {
   useEffect(() => {
-    const TRACKING_ENDPOINT = 'https://tools.cprajapati.com/tracker/track.php';
+    const TRACKING_ENDPOINT = 'https://crm.webmakerit.com/tracker/track.php';
     const urlParams = new URLSearchParams(window.location.search);
 
     let cid = urlParams.get('cid') || localStorage.getItem('wmit_active_cid');
@@ -220,7 +220,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenOrderModal }) => {
               <Link to="/contact" className="hover:text-emerald-400">Contact</Link>
             </div>
             <div className="pt-2 text-slate-400 text-[11px] leading-relaxed">
-              Designed & Developed by{' '}
+              Designed & {' '}
               <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
             </div>
           </div>
